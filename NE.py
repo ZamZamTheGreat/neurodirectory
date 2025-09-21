@@ -8,7 +8,7 @@ AGENCIES = [
         "name": "NeuroEdge Properties",
         "location": "Windhoek",
         "tagline": "Smart Real Estate Solutions",
-        "url": "https://neuroestates.onrender.com/gie"
+        "url": "https://neuroestates.onrender.com/"
     },
     {
         "name": "Ramos Estates",
